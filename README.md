@@ -6,10 +6,15 @@ Disable Secure Boot
 
 
 Step by Step:
+
 VMware-VMvisor-installer-*.iso
+
 	• Unpack the iso file
+	
 	Double click to mount the iso file
+	
 	Copy files to folder: 
+	
     # cp -r /Volumes/ESXI-9.1.0.0100-25433460-STANDAR ./unpacked
 
 	• Create the KS folder and copy KS.CFG to KS folder
