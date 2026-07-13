@@ -7,7 +7,7 @@ Disable Secure Boot
 
 Step by Step:
 
-VMware-VMvisor-installer-*.iso
+ VMware-VMvisor-installer-*.iso
 
 	• Unpack the iso file
 	
